@@ -1,0 +1,1 @@
+from IPScanner.scanner import Scanner
